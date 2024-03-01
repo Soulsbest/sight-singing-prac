@@ -1,4 +1,4 @@
-# Sight Singing Prac (https://github.com/Soulsbest/sight-singing-prac)
+# Sight Singing Prac (https://soulsbest.github.io/sight-singing-prac/)
 This is a very random website that I wanted to use to practice my sight singing for AP Music Theory
 
 
