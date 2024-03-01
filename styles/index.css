@@ -33,8 +33,9 @@ body {
 }
 
 #next {
-    position: relative;
-    top: 160px;
+    position: fixed;
+    top: 90%;
+    transform: translateY(-100%);
 }
 
 button {
