@@ -10,4 +10,5 @@ This is a very random website that I wanted to use to practice my sight singing 
     Yes, I made this while I was working on it okay ):
 
 ### Will anyone read to the end of this Q&A?
-    Before you read this, my answer was a quantum state of both yes and no influenced by the state of all particles everywhere. Now the answer is a clear yes.
+    Before you read this, my answer was a quantum state of both yes and no influenced 
+    by the state of all particles everywhere. Now the answer is a clear yes.  
